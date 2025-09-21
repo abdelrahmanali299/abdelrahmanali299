@@ -10,7 +10,8 @@
 - 🎓 Studying Computer Science & Control Systems at [Mansoura University]  
 - 💼 Currently training as a **Flutter Developer at INFOSAS**  
 - 🌱 Learning advanced Flutter & backend integration  
-- 👯 Open to collaborating on Flutter and mobile app projects  
+- 👯 Open to collaborating on Flutter and mobile app projects
+- 📄 [View My Resume](https://flowcv.com/resume/gvmrg7tgv7wd)
 - 📫 Reach me at: **bedoalii255@gmail.com**
 
 
