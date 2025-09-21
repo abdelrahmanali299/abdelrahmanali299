@@ -27,11 +27,12 @@
 ---
 
 ## 🚀 Projects
-- 📱 **E-commerce App** – Product listing, search, cart, and order placement  
-- 📚 **Bookly App** – Browse and read books  
-- 📖 **Quran App** – Quran, Azkar, prayer times, and tasbih  
-- 📝 **Notes App** – Create, edit, and search notes  
-- 📊 **Responsive Dashboard UI** – For mobile, tablet, and desktop  
+- 📱 [**Cartsy**](https://github.com/abdelrahmanali299/Cartsy) – Product listing, search, cart, and order placement  
+- 📚 [**Readify**](https://github.com/abdelrahmanali299/Readify) – Browse and read books  
+- 📖 [**Toba**](https://github.com/abdelrahmanali299/Toba) – Quran, Azkar, prayer times, and tasbih  
+- 📝 [**Notes**]() – Create, edit, and search notes  
+- 📊 [**Responsive Dashboard UI**](https://github.com/abdelrahmanali299/Dash-board) – For mobile, tablet, and desktop  
+  
 
 ---
 
