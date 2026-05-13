@@ -39,7 +39,6 @@
 - 📱 [**Cartsy**](https://github.com/abdelrahmanali299/Cartsy) – Product listing, cart, and ordering system  
 - 📚 [**Readify**](https://github.com/abdelrahmanali299/Readify) – Book browsing & reading app  
 - 📖 [**Toba App**](https://github.com/abdelrahmanali299/Toba) – Quran, Azkar, prayer times, tasbih  
-- 📝 [**Notes App**]() – Create, edit, and manage notes  
 - 📊 [**Responsive Dashboard UI**](https://github.com/abdelrahmanali299/Dash-board) – Multi-device UI design  
 
 ---
